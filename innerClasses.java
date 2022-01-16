@@ -21,7 +21,7 @@ public class innerClasses
 	{
 	outerClass outer = new outerClass(); //instantiating outer class
 		
-	outer.display_inner();
+	outer.display_inner(); // Display method.
 
 	}
 
